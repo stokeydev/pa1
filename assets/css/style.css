@@ -7,3 +7,24 @@
     margin-right: auto;
     margin-left: auto;
 }
+
+/*
+.containter{
+    width: 20rem;
+    height: 20rem;
+    background: gray;
+    display: flex;
+    overflow-x: scroll;
+}
+
+.containter div{
+    min-width: 20rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10rem;
+    color: gray;  
+}
+*/
+
+.card {display:inline-block;}
