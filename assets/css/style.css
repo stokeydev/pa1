@@ -8,6 +8,15 @@
     margin-left: auto;
 }
 
+
+.center-form {
+    width : 1000px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;  
+}
+
 /*
 .containter{
     width: 20rem;
@@ -27,4 +36,36 @@
 }
 */
 
+
+/* -------The cards on the Places to see page------ */
 .card {display:inline-block;}
+
+
+.bg-color-contact {
+  background-color: white;
+}
+
+/* -------Contact form------ */
+
+.contact-heading {
+  margin-top: 25px;
+  margin-bottom: 20px;
+}
+
+.center-form {
+  padding-top: 10px;
+  margin: 0 auto;
+  max-width: 70%;
+}
+
+button[type="submit"] {
+  margin-top: 15px;
+  margin-bottom: 250px;
+
+}
+
+/* -------footer------ */
+
+footer {
+  background-color:rgb(206, 222, 222);
+}
