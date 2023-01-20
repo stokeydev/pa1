@@ -70,3 +70,6 @@ footer {
   background-color:rgb(206, 222, 222);
 }
 
+.carousel-item{
+  height: 88vh;
+}
