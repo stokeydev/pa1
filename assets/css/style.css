@@ -70,6 +70,19 @@ footer {
   background-color:rgb(206, 222, 222);
 }
 
+
+/* -------Carousel in homepage - make it resposive later!!------ */
+@media screen and (min-width: 992px) {
+
 .carousel-item{
   height: 88vh;
+}
+}
+.carousel-container .swans h1 {
+  color: rgb(133, 133, 133);
+ 
+}
+
+.carousel-container .swans p {
+  color: black;
 }
