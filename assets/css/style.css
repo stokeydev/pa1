@@ -80,7 +80,12 @@ footer {
 }
 }
 
-/* -------Carousel text ------ */
+.carousel-caption {
+  background-color: rgba(0,0,0,.5);
+    color: #fff;
+}
+
+/* -------Carousel text ------ 
 
 .carousel-caption html {
   font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
@@ -100,7 +105,9 @@ footer {
 -webkit-background-clip: text;
 color: transparent;
 }
+*/
 
+/* ------timeline history page ------ */
 
 .timeline-with-icons {
   border-left: 1px solid hsl(0, 0%, 90%);
