@@ -38,7 +38,7 @@
 */
 
 
-/* -------The cards on the Places to see page------ */
+/* --------------------The cards on the Places to see page------ */
 .card {display:inline-block;}
 
 
@@ -46,7 +46,7 @@
   background-color: white;
 }
 
-/* -------Contact form------ */
+/* -------------------------------------Contact form------ */
 
 .contact-heading {
   margin-top: 25px;
@@ -65,14 +65,14 @@ button[type="submit"] {
 
 }
 
-/* -------footer------ */
+/* --------------------------------------footer------ */
 
 footer {
   background-color:rgb(206, 222, 222);
 }
 
 
-/* -------Carousel in homepage ------ */
+/* ---------------------------Carousel in homepage ------ */
 @media screen and (min-width: 992px) {
 
 .carousel-item{
@@ -87,7 +87,7 @@ footer {
 
 
 
-/* ------timeline history page ------ */
+/* -------------------------timeline history page ------ */
 
 .timeline-with-icons {
   border-left: 1px solid hsl(0, 0%, 90%);
@@ -118,7 +118,7 @@ footer {
   justify-content: center;
 }
 
-/* ------youtube video home page ------ */
+/* ---------------------youtube video home page ------ */
 
 .youtubevid{
   position: relative;
@@ -135,7 +135,7 @@ footer {
 }
 
 
-/* ------google maps ------ */
+/* --------------------------------google maps ------ */
 
 .googlemaps{
   position: relative;
@@ -151,7 +151,7 @@ footer {
   height: 100%;
 }
 
-/* ------nav bar ------ */
+/* -----------------------------------nav bar ------ */
 
 .nav-pills .nav-link.active {
   background-color: black;
@@ -161,3 +161,13 @@ footer {
 .nav-pills a {
   color: black;
 }
+
+
+/* ------------------------------ cards image------ */
+.cards img {
+  height: 130px;
+  width: 100%;
+}
+
+
+ul { list-style: none outside none; margin:0; padding: 0;}
