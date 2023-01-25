@@ -160,3 +160,13 @@ footer ul { list-style: none outside none; margin:0; padding: 0;}
   max-height: 419px;
   width: 100%;
 }
+
+/* ------------------------------order of images and text in what to do page------ */
+@media only screen and (max-width : 768px) {
+  .first{
+     order: 1;
+  }
+  .second{
+     order: 2;
+  }
+}
