@@ -52,21 +52,10 @@ footer {
   background-color:rgb(206, 222, 222);
 }
 
-
-/* ---------------------------Carousel in homepage ------ */
-@media screen and (min-width: 992px) {
-
-.carousel-item{
-  height: 88vh;
-}
-}
-
 .carousel-caption {
   background-color: rgba(0,0,0,.5);
     color: #fff;
 }
-
-
 
 /* -------------------------timeline history page ------ */
 
