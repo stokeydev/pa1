@@ -169,5 +169,14 @@ footer {
   width: 100%;
 }
 
-
+/* ------------------------------ footer links------ */
 ul { list-style: none outside none; margin:0; padding: 0;}
+
+
+/* ------------------------------Image size in the what to do page------ */
+
+
+.whattodo img {
+  max-height: 419px;
+  width: 100%;
+}
