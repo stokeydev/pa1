@@ -9,21 +9,65 @@
   <script src="https://kit.fontawesome.com/3c8bb7196b.js" crossorigin="anonymous"></script>
 </head>
   <body>
-    <div class="container">
-        <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
-          <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
-            <i class="fa-solid fa-chess-rook me-3 fs-1"></i>
-            <span class="fs-4">Visit Stoke Newington</span>
-          </a>
+ <!-- Nav bar  large screen-->
+ <div class="container d-none d-md-block">
+  <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
+    <a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
+      <i class="fa-solid fa-chess-rook me-3 fs-1"></i>
+      <span class="fs-4">Visit Stoke Newington</span>
+    </a>
     
-          <ul class="nav nav-pills">
-            <li class="nav-item"><a href="index.html" class="nav-link" aria-current="page">Home</a></li>
-            <li class="nav-item"><a href="activities.html" class="nav-link">What to do</a></li>
-            <li class="nav-item"><a href="history.html" class="nav-link">History</a></li>
-            <li class="nav-item"><a href="contact.html" class="nav-link active">Support us</a></li>
-          </ul>
-        </header>
-      </div>
+ <div class="">
+    <ul class="nav nav-pills">
+      <li class="nav-item"><a href="index.html" class="nav-link active" aria-current="page">Home</a></li>
+      <li class="nav-item"><a href="activities.html" class="nav-link">What to do</a></li>
+      <li class="nav-item"><a href="history.html" class="nav-link">History</a></li>
+      <li class="nav-item"><a href="contact.html" class="nav-link">Support Us</a></li>
+    </ul>
+  </div>
+
+  
+  </header>
+</div>
+<!-- Nav bar end --> 
+
+<!-- Navbar Mobile Screen source: https://mdbootstrap.com/docs/b4/jquery/navigation/hamburger-menu/-->
+<nav class="navbar navbar-light navbar-1 white d-md-none mx-auto">
+
+<!-- Navbar brand -->
+
+      <h4 class="fs-4 m-1"><i class="fa-solid fa-chess-rook me-1 fs-1 px-1 ml-2"></i> Visit Stoke Newington</h4>
+      
+<!-- Collapse button -->
+<button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" 
+aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+
+<!-- Collapsible content -->
+<div class="collapse navbar-collapse" id="navbarsExample03">
+
+  <!-- Links -->
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item active">
+      <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="activities.html">What to do</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="history.html">History</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="contact.html">Support us</a>
+    </li>
+  </ul>
+  <!-- Links -->
+
+</div>
+<!-- Collapsible content -->
+
+</nav>
+<hr>
+<!--Navbar Mobile Screen END-->
 
     <section class="container-fluid formcontact">
         <div class="row bg-color-contact">
