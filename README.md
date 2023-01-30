@@ -59,7 +59,7 @@ Visit Stoke Newington aims to inform the general public about the splendors of S
 
 ### **Visitor Goals** 
 
-Visit Stoke Newington visitors vary in age and it was a requirement that the website is straight to the point and easy to use for those seeking information about the what to do, the history of the area, and how people can get involved. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for the basic information to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the neighborgood.  
+Visitors will be from all different backgrounds, and thus it is a goal of the website to be straight to the point and easy to use for those seeking information about: what to do, the history of the area, and how people can get involved. The site is designed to be responsive to allow visitors to view it from a range of devices and the menu has decipherable font from both portrait and landscape orientation. The basic information is easily accessible from every page via the footer, which makes for easy navigation and no need to use a "back" button. In addition, an interactive Google Map is also on the page in order to direct those not familiar with the neighborhood.  
 
 ### **First Time Visitor**
   - A user can access each page of the site with one click via the navigation bar.
@@ -84,7 +84,7 @@ Visit Stoke Newington visitors vary in age and it was a requirement that the web
 ### **1. Strategy**  
 
 
-- I required an easy-to-read, dependable website that delivers clear information about menu options and opening times.  
+- I required an easy-to-read, dependable website that delivers clear information about what to do the and breif history of the area.  
 - Location of the shop must be visible and social media links available.  
 - The retro aesthetic of SCOOPS is to be carried on throughout the website with the use of consistent, clean design and use of graphics and colour to evoke an emotional and familiar connection for the user.  
 - Pricing within the menu page is to be transparent and simple.  
