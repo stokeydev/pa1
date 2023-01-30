@@ -59,7 +59,7 @@ Visit Stoke Newington aims to inform the general public about the splendors of S
 
 ### **Visitor Goals** 
 
-Visitors will be from all different backgrounds, and thus it is a goal of the website to be straight to the point and easy to use for those seeking information about: what to do, the history of the area, and how people can get involved. The site is designed to be responsive to allow visitors to view it from a range of devices and the menu has decipherable font from both portrait and landscape orientation. The basic information is easily accessible from every page via the footer, which makes for easy navigation and no need to use a "back" button. In addition, an interactive Google Map is also on the page in order to direct those not familiar with the neighborhood.  
+Visitors will be from all different backgrounds, and thus it is a goal of the website to be straight to the point and easy to use for those seeking information about: what to do, the history of the area, and how people can get involved. The site is designed to be responsive to allow visitors to view it from a range of devices. The basic information is easily accessible from every page via the footer, which makes for easy navigation and no need to use a "back" button. In addition, an interactive Google Map is also on the page in order to direct those not familiar with the neighborhood.  
 
 ### **First Time Visitor**
   - A user can access each page of the site with one click via the navigation bar.
@@ -68,14 +68,14 @@ Visitors will be from all different backgrounds, and thus it is a goal of the we
   - A user can find a video tour of the area.
 
 ### **Returning Visitor**  
-  - A user can quickly access the menu via the landing page to visit what they can do in the neighbourhood.
+  - A user can quickly access the other pages via the landing page to revisit information or find new information.
   - A user can learn about the history of the area.
   - A user can find social media links in the footer.
   - A user can use the contact form to connect with the community.
   
 ### **Frequent Visitor**  
   - A user can see what they can do in the neighbourhood.
-  - A user can view the social media links to check for menu updates.    
+  - A user can view the social media links to check for updates (if any).    
 
 --- 
 
@@ -85,46 +85,49 @@ Visitors will be from all different backgrounds, and thus it is a goal of the we
 
 
 - I required an easy-to-read, dependable website that delivers clear information about what to do the and breif history of the area.  
-- Location of the shop must be visible and social media links available.  
-- The retro aesthetic of SCOOPS is to be carried on throughout the website with the use of consistent, clean design and use of graphics and colour to evoke an emotional and familiar connection for the user.  
-- Pricing within the menu page is to be transparent and simple.  
+- I wanted to show off the highlights of the area as soon as people enter the site so it stands out and makes the site look attractive, hence the   
+  carousel.  
+- A clean design and use of graphics and colour to evoke an emotional and familiar connection for the user has been adapted - no big bright colours, a simple and clean look suits everyone and is a modern, respectable approach.  
+- Information about this site is to be transparent and simple.  
 - Mobile responsiveness is an essential feature required for this website.
   
 
 ### **2. Scope**  
 
-The SCOOPS site must be available on a wide range of devices due to the varied range of customer ages. A large portion of their client base is the retired, over-60 age group, comprising mostly of grandparents bringing their grandchildren out for a weekly treat. SCOOPS provides a comfortable, no-fuss, homely environment for its dine-in patrons and they wished for this to be reflected in the website.  
+The site must be available on a wide range of devices due to the varied range of bacgkrounds visiting the site. A range of visitors will be there for different reasons, but will want the same information - if someone lives there, they might not know everything their neighbourhood has to offer, and a first time visitor will want the main highlights. The site provides a comfortable, no-fuss website which doesn't have endless amounts of information.
 
 - The site is to contain only essential information, presented in a similar fashion and layout.   
-- Text must be clear and legible on any sized device to allow the user instant access to the menu, location, and opening times.  
-- A brief history of the business is to be included on the landing page.  
-- For future development, an ordering system for party/catering requests will be included. Also, a large gallery page featuring images of the ice cream flavours, sundae specials, and candid shots of customers and staff.
+- Text must be clear and legible on any sized device to allow the user instant access to the relevant pages, and different parts of the pages.  
+- Three images that show off Stoke Newington is included on the home page.  
+- For future development, the information on what to do can be updated, such as the fairs and festivals page, or any new developments in the area can be incorporated into the site. The website can possibly be translated into other languages, depending on who visits.
   
 
 ### **3. Structural**  
 
-Similar to the idea for the design and layout to be accessible and functional, simple navigation and interactivity were essential. The site needed to provide information swiftly no matter the age of the user.  
-- Easy to identify, clickable links with a consistent layout. The design was to be predictable for each page with the information clearly identifiable.  
+Similar to the idea for the design and layout to be accessible and functional, simple navigation and interactivity is essential. The site needs to provide information swiftly no matter the background of the user.  
+- Easy to identify, clickable links with a consistent layout. The design is to be predictable for each page with the information clearly identifiable.  
 - Any buttons or links had to provide feedback to the user to identify their purpose in the form of a design change that followed the flow of the overall aesthetic.  
-- A large, clear button to bring the user directly to the menu would be placed front and center of their eye-line.  
-- In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning customer with a faster route to their information destination, strengthening the site's familiar and trusting feeling.  
+- A large, clear button to bring the user directly to the other pages would be placed front and center of their eye-line.  
+- In addition, a navigation bar and footer would be visible on every page, at every device size, displaying the same information. This would provide the returning visitors with a faster route to their information destination, strengthening the site's familiar and trusting feeling.  
 
   
 ### **4. Skeleton**  
 
 The site was developed to be simple, clear, and familiar.  
 
-- For the landing page, the logo, SCOOPS, was to be top-left of every page, no matter the orientation or screen size.  
-- The simple, three-item navigation bar of 'Home', 'Menu', and 'Contact', is situated always to the right of the logo. An underline feature identifying the current page and whether a cursor or touch was accurate.  
-- A large, clear image dominates the landing page with a close-up view of the available ice cream flavours, their texture visible.  
-- Centered in the image is a tagline with a large, clickable button situated immediately below it. First-time visitors have access to the menu with one easy click.  
-- For returning or curious visitors, scrolling down the page introduces them to a brief, three-piece of information section about the SCOOPS business. Images are visible on one side of the headed paragraphs.  
-- The page ends with the footer, again offering three pieces of important information to the user, opening times, location, and social media.  
+- For the landing page, the logo, a castle (chosen because there's a castle in Stoke Newington), was to be top-left of every page, no matter the orientation or screen size.  
+- The simple, four-item navigation bar of 'Home', 'What to do', 'History', and 'Support us', is situated always to the right of the logo. The page the user is on will be highlighted on the nav bar.  
+- A large, clear image dominates the landing page with a nice view of Clissold House and St. Mary's Church (new).  
+- Centered in the image is a tagline welcoming visitors. First-time visitors have access to the what to do, history and support us pages with one easy click.  
+- For returning or curious visitors, scrolling down the page introduces them to a brief, three-piece of information sections of the website. Images are visible on one side of the headed paragraphs.  
+- Just before the footer, there is a nice youtube video which shows off Stoke Newington - this helps people visualise the neighbourhood, and some people might find the youtube video sufficient.
+- The page ends with the footer, again offering three pieces of important information to the user, links to other pages, location, and social media.  
 
-- For the menu page, the navigation bar and footer remain as before. Between these lies the menu items laid out in identifiable, headed sections. An image of the most requested dessert features at the end of the menu, to assist the visitors' decision.  
+- For the what to do page, the navigation bar and footer remain as before. There is an interactive content section at the top laid out as cards, with an image and title -people can jump to seciton they want to find out about by clicking a button rather than having to scroll all the way down. Users have the option to also jump back to the top via a button rather than having to scroll all the way back up as well. All sections are split into two: information and a relevant image. 
+
+- For the history page, the navigation bar and footer remain as before. There is a timeline with a title and icon represnting the time, along with informaiton about said period. The timeline is progressive, starting from a certain point of history and progressing towards the modern period.
   
-- For the contact us page, the navigation and footer remain as before. Two sections are presented with explanatory headings. An optional form for visitors who wish to connect with the business with an interactive Google Map with the business location pinned. There is an option to enlarge the map in a new window and find directions.  
-- Below the map again are the location details for the shop with a phone number to contact them.  
+- For the support us page, the navigation and footer remain as before. There is a form where people can write in how they can help the website, and an image accompanying the form.
 
 ### Wireframes  
 <details open>
