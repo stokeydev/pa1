@@ -55,26 +55,26 @@ Visit Stoke Newington is the go-to site for those who wish to visit Stoke Newing
 
 ### **Primary Goal**  
   
-SCOOPS Ice Cream Parlour is a friendly, local ice cream parlour. It needed a clear and striking website design that reflected the parlour's traditional flavours and aesthetic. 
+Visit Stoke Newington aims to inform the general public about the splendors of Stoke Newington. It lets people know what they can get up, from walking tours, informing them what bars, pubs, restaurants, and cafes are available, what the local sports amenities are, along with the hisotry of the neighbourhood
 
 ### **Visitor Goals** 
 
-SCOOPS customers vary in age and it was a requirement that the website is straight to the point and easy to use for those seeking information about the menu, location, and opening times. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for the opening times and location of the shop to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the town.  
+Visit Stoke Newington visitors vary in age and it was a requirement that the website is straight to the point and easy to use for those seeking information about the what to do, the history of the area, and how people can get involved. The site was designed to be responsive to allow visitors to view it from a range of devices and the menu was to have decipherable font from either portrait or landscape orientation. It was important for the basic information to be accessible from every page via the footer. In addition, an interactive Google Map would be needed to direct those not familiar with the neighborgood.  
 
 ### **First Time Visitor**
   - A user can access each page of the site with one click via the navigation bar.
-  - A user can access the menu and prices via the button located at the center of the landing page.
-  - A user can view the opening times and location via the footer.
-  - A user can find a map to the parlour via the navigation bar and footer.
+  - A user can view images of Stoke Newington, located at the center of the landing page.
+  - A user can view the basic information of the site via the footer.
+  - A user can find a video tour of the area.
 
 ### **Returning Visitor**  
-  - A user can quickly access the menu via the landing page to check menu options and prices.
-  - A user can learn about the business ethos by scrolling down the landing page.
-  - A user can find social media links in the footer to learn more about SCOOPS.
-  - A user can use the contact form to connect with the business.
+  - A user can quickly access the menu via the landing page to visit what they can do in the neighbourhood.
+  - A user can learn about the history of the area.
+  - A user can find social media links in the footer.
+  - A user can use the contact form to connect with the community.
   
 ### **Frequent Visitor**  
-  - A user can see opening hours quickly by scrolling down the landing page.
+  - A user can see what they can do in the neighbourhood.
   - A user can view the social media links to check for menu updates.    
 
 --- 
