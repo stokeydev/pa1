@@ -288,7 +288,7 @@ The footer remains the same throughout the design. It contains a breif summary o
  
 ### **Desktop, Tablet & Mobile Differences**  
   
-To ensure responsivity I used Flexbox in my CSS styling. Main elements in the body of the site i.e. the business ethos, menu sections, and contact sections were displayed in a row format for desktops but this switched to a column for smaller screen sizes. The header and footer remained the same, whilst images were resized to fit the display.
+To ensure responsivity I used bootstrap's column approach. Main elements in the body of the site i.e. the cards, images with text, and support us sections were displayed in a row format for desktops but this switched to a column for smaller screen sizes. The header and footer remained the same, whilst images were resized to fit the display.
   
 ### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**  
   
@@ -310,9 +310,8 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 
 ## Future Features  
 
-- For future development, I would like to include an ordering system on the website to allow customers to order menu items for takeaway and a form element for larger orders to cater for parties and events.  
-- An embedded video of the in-house ice cream production, showing customers how to make ice cream from beginning to end.
-- A gallery page of dessert specials, events held at the parlour, and candid photos of customers and staff.
+- For future development, I would like to include an extra page dedicated to ongoing events.
+- A section on how to get to Stoke Newington such as a list of underground/overground stations and what buses get there.
   
 ---   
   
@@ -326,7 +325,6 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
 
 ### **Frameworks, Libraries, Technologies & Programs Used**  
 
-- Procreate - used to create wireframes and edit images 
 - GitHub - used to save and store all files for this website  
 - Git - used for version control
 - Google Fonts - fonts were imported from here 
