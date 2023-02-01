@@ -133,32 +133,39 @@ The site was developed to be simple, clear, and familiar.
 <details open>
 <summary>Wireframe - Homepage Desktop & Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](docs/documentation/homemd_wireframe.png)
+![homepage wireframe-mobile & desktop](./assets/images/Wirefram%20home.png)
 </details> 
 <details >
-<summary>Wireframe - Menu page Desktop</summary>  
+<summary>Wireframe - What to do page Desktop</summary>  
 
-![homepage wireframe-mobile & desktop](docs/documentation/menudesktop_wireframe.png)
+![homepage wireframe-mobile & desktop](./assets/images/whattodo%20desktop.png)
 </details> 
 <details>
-<summary>Wireframe - Menu page Mobile</summary>  
+<summary>Wireframe - What to do page Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](docs/documentation/menumobile_wireframe.png)
+![homepage wireframe-mobile & desktop](./assets/images/WhattodoMobile.png)
 </details>    
 <details>
-<summary>Wireframe - Contact page Desktop</summary>  
+<summary>Wireframe - History page Desktop & Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](docs/documentation/contactdesktop_wireframe.png)
+![homepage wireframe-mobile & desktop](./assets/images/history%20wireframe.png)
+</details> 
+          
+<details>
+<summary>Wireframe - Support us page Desktop</summary>  
+
+![homepage wireframe-mobile & desktop](./assets/images/supportus%20desktop.png)
 </details> 
 <details>
-<summary>Wireframe - Contact page Mobile</summary>  
+<summary>Wireframe - Support us page Mobile</summary>  
 
 ![homepage wireframe-mobile & desktop](docs/documentation/contactmobile_wireframe.png)
-</details>              
+</details>         
+
 
 ### **5. Surface**  
 
- A design was created that allowed a consistent flow throughout the three-page site.   
+ A design was created that allowed a consistent flow throughout the four-page site.   
  - A background was designed to reflect the cone wrapper used by the SCOOPS parlour. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand.  
 - A palette of blues and reds was created, similar to the interior of the parlour.  
 - A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. 
