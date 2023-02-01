@@ -166,12 +166,11 @@ The site was developed to be simple, clear, and familiar.
 ### **5. Surface**  
 
  A design was created that allowed a consistent flow throughout the four-page site.   
- - A background was designed to reflect the cone wrapper used by the SCOOPS parlour. The striped, two-tone panel adorns each page, clearly identifying the SCOOPS brand.  
-- A palette of blues and reds was created, similar to the interior of the parlour.  
-- A clean, sans-serif font, 'Josefin sans' was used in a medium weight to provide legible text at any size. 
-- Corners on all elements were rounded to maintain a retro feel. 
+ - A white background was kept to contrast with the images and content.  
+- A palette of back and white was chosen to give it a clean, easily accessible and modern look.  
+- The fonts were kept to the default so as to keep the clean and accessibe look consistent throughout the site.  
 
-Overall, the design was intended and created to foster the emotional and familiar connection customers have with the parlour.  
+Overall, the design intends to make the website seem welcoming, non-threatening and easily accessible.  
  
 ---   
   
@@ -201,7 +200,7 @@ I experienced an issue with the contrast ratio for my buttons. The ratio of the 
         
 ### **Imagery**  
   
-The images that I have chosen for my site reflect the bright, retro aesthetic I am looking for. Close-ups of large displays of ice cream create a positive feeling for the user, prompting them to delve further into the menu section. A large image sits below the menu options, it shows the most popular dessert of a warm brownie with a scoop of delicious ice cream. The sites [pexels.com](https://www.pexels.com/), [unsplash.com](https://unsplash.com/) and [pixabay.com](https://pixabay.com/) provided the royalty-free stock images used throughout the website, with attributions to each photographer placed in the [Credits](#credits) section of this README doc.
+The images that I have chosen for my site reflect the character and charm of Stoke Newington. On the Homepage and the Support us page, all the images were taken by the website creator, Berk Bektas. The site [unsplash.com](https://unsplash.com/) provided the royalty-free stock images used on the 'What to do' page, with attributions to each photographer placed in the alt text.
 
 ---  
   
@@ -212,7 +211,8 @@ The images that I have chosen for my site reflect the bright, retro aesthetic I 
 <details open>
 <summary></summary>  
 
-![screenshot of navbar](docs/documentation/navbar.png) 
+![screenshot of hero image](./assets/images/navbar%20desktop.PNG)  
+![screenshot of hero image](./assets/images/navbar%20mobile.PNG)  
 </details>
 This remains the same across the three pages, in portrait/landscape and mobile/tablet/desktop view.
   
@@ -222,9 +222,10 @@ This remains the same across the three pages, in portrait/landscape and mobile/t
 <details open>  
 <summary></summary>
 
-![screenshot of hero image](docs/documentation/heroimage.png)  
+![screenshot of hero image](./assets/images/hero%20image%20large.PNG)  
+![screenshot of hero image](./assets/images/hero%20image%20small.PNG)  
 </details>
-The hero image remains the same across all devices, with it becoming square-shaped for smaller screens.  
+The hero image remains the same across all devices, with the text on the image disappearing on smaller screens.  
 
 <br> 
 
