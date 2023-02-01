@@ -327,11 +327,8 @@ To ensure responsivity I used bootstrap's column approach. Main elements in the 
 
 - GitHub - used to save and store all files for this website  
 - Git - used for version control
-- Google Fonts - fonts were imported from here 
-- Font Awesome - icons and their associated kit were downloaded from here  
-- Adobe Color - for all color palettes and accessibility contrast ratios  
-- Favicon.io - for ice cream favicon  
-- Tiny PNG - to compress images 
+- Google Maps - this was used to add the route for the strolls section
+- Font Awesome - icons and their associated kit were downloaded from here   
 - Google Dev Tools - to debug and for testing responsiveness 
 - Google Lighthouse - for auditing the website
 - W3C Validator - for validating the HTML and CSS code 
@@ -346,14 +343,14 @@ To ensure responsivity I used bootstrap's column approach. Main elements in the 
 GitHub was used to deploy the website. These were the steps taken to acheive this:  
 
 1. Login to GitHub account
-2. Navigate to the project repository, scoops_pp1
+2. Navigate to the project repository, stokeydev_pa1
 3. Click the Settings button near the top of the page
 4. In the left-hand menu, find and click on the Pages button
 5. In the Source section, choose 'main' from the drop-down, select branch menu
 6. Select 'root' from the drop-down folder menu
 7. Click 'Save' and after a few moments the project will have been made live and a link is visible at the top of the page
 
-![screenshot of how to deploy site on github](docs/documentation/deployment.png) 
+![screenshot of how to deploy site on github](./assets/images/githubpic.PNG) 
 
 ---  
     
@@ -367,7 +364,7 @@ I had planned for this site to be accessible and legible on all screen sizes. Th
 - Huawei AD80HW 24" Monitor
 - iPad Pro 2021
 - iPhone SE(2016)
-- Huawei p30 Lite 
+- Huawei p30 pro 
 - iPhone 11/13
 - Samsung Galaxy s10 
   
@@ -383,20 +380,19 @@ The results of feature testing are as follows:
   
 | Page | Test | Pass/Fail |
 | :----| :----| :--------:|
-| All  | SCOOPS logo links back to homepage | Pass |
-| All  | Underline appears under navigation items when the mouse hovers | Pass |
-| All  | Underline stays under active navigation item | Pass |
+| All  | Logo links back to homepage | Pass |
+| All  | Correct page name highlighted in navigation | Pass |
 | All  | Navigation links bring the user to relevant page | Pass |
-| All  | Footer social media icons bring the user to relevant sites via a new tab | Pass |
-| All  | 'Find Us' heading in footer links to contact page | Pass |
+| All  | Footer social media list in the footer brings the user to relevant sites via a new tab | Pass |
+| All  | Useful links list in footer links to correct page | Pass |
 | All  | Images and sections are responsive in different media sizes | Pass |
-| Index| Hero image zooms in on loading | Pass |
-| Index| Call to Action button links to menu page | Pass | 
-| Menu | Menu is scrollable | Pass |
-| Menu | Menu items are clear and legible | Pass |
-| Contact | Contact form required elements are responsive | Pass |
-| Contact | Form submit button brings you to a validation page | Pass |
-| Contact | Google Map is interactive and opens in a new tab for a larger map | Pass |
+| Index| Hero image loads and carousel works | Pass |
+| Index| Youtube video works | Pass | 
+| What to do | All buttons scroll to desired place | Pass |
+| What to do | Google Maps works and shows correct information | Pass |
+| History| Timeline is ligned up correctly | Pass |
+| Support us | Contact form required elements are responsive | Pass |
+| Support us | Form submit button brings you to a validation page | Pass |
 
 Further device testing took place in Dev Tools on:
   - iPhone 4/5/6/7/8
