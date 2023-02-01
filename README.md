@@ -159,7 +159,7 @@ The site was developed to be simple, clear, and familiar.
 <details>
 <summary>Wireframe - Support us page Mobile</summary>  
 
-![homepage wireframe-mobile & desktop](docs/documentation/contactmobile_wireframe.png)
+![homepage wireframe-mobile & desktop](./assets/images/supportus%20mobile.png)
 </details>         
 
 
