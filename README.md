@@ -405,27 +405,31 @@ Further device testing took place in Dev Tools on:
 <details open>
 <summary>Index/landing page HTML validation</summary>  
 
-![screenshot of index page w3c html validation for SCOOPS](docs/documentation/w3c_index.png)
+![screenshot of index page w3c html validation](./assets/images/indexhtmlgood.png)
 </details>   
 <details>
-<summary>Menu page HTML validation</summary>  
+<summary>What to do page HTML validation</summary>  
 
-![screenshot of menu page w3c html validation for SCOOPS](docs/documentation/w3c_menu.png)
+![screenshot of menu page w3c html validation](./assets/images/activitieshtmlgood.png)
 </details>  
 <details>
-<summary>Contact page HTML validation</summary>  
+<summary>History page HTML validation</summary>  
 
-![screenshot of contact page w3c html validation for SCOOPS](docs/documentation/w3c_contact.png)
+![screenshot of contact page w3c html validation](./assets/images/historyhtmlgood.png)
 </details>  
-  
+<details>
+<summary>Support us page HTML validation</summary>  
+
+![screenshot of menu page w3c html validation](./assets/images/contacthtmlgood.png)
+</details>   
 <br>  
 
 ### **CSS Validation using W3C Validation** 
 
 <details open>
-<summary>SCOOPS CSS validation</summary>  
+<summary>CSS validation</summary>  
 
-![screenshot of CSS validation for SCOOPS](docs/documentation/w3c_css.png)
+![screenshot of CSS validation](./assets/images/cssgood.png)
 </details>   
 
 <br>  
@@ -436,38 +440,46 @@ For Desktop
 <details open>
 <summary>Lighthouse audit for Index page</summary>  
 
-![screenshot of lighthouse audit for index page for SCOOPS](docs/documentation/lighthouse_index.png)
+![screenshot of lighthouse audit for index page](./assets/images/indexdesktopp.png)
 </details> 
 <details >
-<summary>Lighthouse audit for Menu page</summary>  
+<summary>Lighthouse audit for What to do page</summary>  
 
-![screenshot of lighthouse audit for menu page for SCOOPS](docs/documentation/lighthouse_menu.png)
+![screenshot of lighthouse audit for menu page](./assets/images/wtddesktopp.png)
 </details>
 <details >
-<summary>Lighthouse audit for Contact page</summary>  
+<summary>Lighthouse audit for History page</summary>  
 
-![screenshot of lighthouse audit for contact page for SCOOPS](docs/documentation/lighthouse_contact.png)
+![screenshot of lighthouse audit for contact page](./assets/images/historydesktopp.png)
 </details>      
+<details >
+<summary>Lighthouse audit for Support us page</summary>  
 
+![screenshot of lighthouse audit for contact page](./assets/images/supportdesktopp.png)
+</details>      
 <br>
   
 For Mobile   
 <details open>
 <summary>Lighthouse audit for Index page - Mobile</summary>  
 
-![screenshot of lighthouse audit for index page for SCOOPS](docs/documentation/mobileindex_lighthouse.png)
+![screenshot of lighthouse audit for index page](./assets/images/indexmobilep.png)
 </details> 
 <details >
-<summary>Lighthouse audit for Menu page - Mobile</summary>  
+<summary>Lighthouse audit for What to do page - Mobile</summary>  
 
-![screenshot of lighthouse audit for menu page for SCOOPS](docs/documentation/mobilemenu_lighthouse.png)
+![screenshot of lighthouse audit for menu page](./assets/images/wtdmobilep.png)
 </details>
 <details >
-<summary>Lighthouse audit for Contact page - Mobile</summary>  
+<summary>Lighthouse audit for History page - Mobile</summary>  
 
-![screenshot of lighthouse audit for contact page for SCOOPS](docs/documentation/mobilecontact_lighthouse.png)
+![screenshot of lighthouse audit for contact page](./assets/images/historymobilep.png)
 </details>      
-  
+<details >
+<summary>Lighthouse audit for Support us page - Mobile</summary>  
+
+![screenshot of lighthouse audit for contact page](./assets/images/supportmobilep.png)
+</details>        
   
 ### **Bugs & Fixes**  
   
