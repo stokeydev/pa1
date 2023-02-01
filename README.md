@@ -23,10 +23,10 @@ Visit Stoke Newington is the go-to site for those who wish to visit Stoke Newing
 * [Page Features](#page-features)
   * [Navbar](#navbar)
   * [Hero-Image](#hero-image)
-  * [Tagline & Call to Action](#tagline--call-to-action)
-  * [Business Ethos](#business-ethos)
-  * [Menu Page](#menu-page)
-  * [Contact Page](#contact-page)
+  * [Tagline](#tagline)
+  * [What to do page](#what-to-do-page)
+  * [History Page](#history-page)
+  * [Support us Page](#support-us-page)
   * [Footer](#footer)  
 * [Tablet & Mobile View](#tablet--mobile-view)
   * [Desktop, Tablet & Mobile Differences](#desktop-tablet--mobile-differences)
@@ -229,47 +229,47 @@ The hero image remains the same across all devices, with the text on the image d
 
 <br> 
 
-### **Tagline & Call to Action**  
+### **Tagline**  
 <details open>
 <summary></summary> 
 
-![screenshot of tagline and button](docs/documentation/tagline.png)  
+![screenshot of tagline and button](./assets/images/tagline.PNG)  
 </details>
-The tagline image has its opacity set to allow the hero image to still show through. The call to action button was given different shades of the original colour palette to allow its contrast ratio to conform to the accessibility needs of the site.
+The tagline image has its opacity set to allow the hero image to still show through.
 
 <br>
 
-### **Business Ethos**  
+### **What to do page**  
 <details> 
 <summary></summary>
 
-![screenshot of ethos and images](docs/documentation/aboutus.png)  
+![screenshot of ethos and images](./assets/images/whattodo1.PNG)  
 
-![screenshot of ethos and images](docs/documentation/dairy.png)  
+![screenshot of ethos and images](./assets/images/whattodo2.PNG)  
 
-![screenshot ethos and images](docs/documentation/hereortogo.png)  
+![screenshot ethos and images](./assets/images/whattodo3.PNG)  
 </details>
-Small portions of text with clear headings are accompanied by striking images that reflect the ice cream parlour's products. In tablet/mobile view, these sections are displayed in a column.  
+A table of content/jump to section dominates the first section - users can click the Explore button to take them to a particular section. Below, small portions of text with clear headings are accompanied by images that reflect the topic, apart from the stroll section, which has an interactive map from Google. In tablet/mobile view, these sections are displayed in a column.  
 
 <br>
   
-### **Menu Page** 
+### **History Page** 
 <details>
 <summary></summary> 
 
-![screenshot of menu page](docs/documentation/menu.png)  
+![screenshot of menu page](./assets/images/historypageview.PNG)  
 </details>
-The striped design occupies the whole page, with off-white backgrounds styled with a lower opacity displaying the menu items available at SCOOPS. A large image of a warm brownie is situated at the end of the menu. The menu format switches to columnar for the tablet/mobile views.
+This page follows a timeline format, with icons representing each era of time. Each era of time is clearly indicated with a large header, with text underneath talking about said era. The page looks similar in all modes of view.
 
 <br>
 
-### **Contact Page**  
+### **Support us Page**  
 <details>
 <summary></summary> 
  
-![screenshot of contact us page](docs/documentation/contact_page.png)  
+![screenshot of contact us page](./assets/images/supportusview.PNG)  
 </details>
-Similar to the menu page design. Two sections for contacting the business with a form element and an embedded, interactive Google map, sitting in a row. These elements switch to columnar format for tablet/mobile views.
+A simple form, with a nice image of Stoke Newington is included in this webpage. These elements switch to columnar format for tablet/mobile views.
 
 <br>
 
@@ -277,9 +277,9 @@ Similar to the menu page design. Two sections for contacting the business with a
 <details>
 <summary></summary>
 
-![screenshot of footer](docs/documentation/footer.png) 
+![screenshot of footer](./assets/images/footerview.PNG) 
 </details>
-The footer remains the same throughout the design. It contains important information for the user and a clickable link to the map page in the 'Find Us' heading.  
+The footer remains the same throughout the design. It contains a breif summary of the website, along with clickable links to the different pages on the website, along with social media pages the website is connected to.  
 
 ---   
 
@@ -292,12 +292,18 @@ To ensure responsivity I used Flexbox in my CSS styling. Main elements in the bo
   
 ### **Tablet View (iPad Mini/iPad Pro/Surface Pro)**  
   
-![screenshots of SCOOPS website on ipad pro](docs/documentation/tablet_view.png)
+![screenshots of home page on ipad pro](./assets/images/hometablet.PNG)
+![screenshots of what to do page on ipad pro](./assets/images/whattodotablet.PNG)
+![screenshots of history page on ipad pro](./assets/images/whattodotablet.PNG)
+![screenshots of support us on ipad pro](./assets/images/supportustablet.PNG)
 
 
 ### **Mobile View (iPhone 5/iPhone SE/iPhone XR/iPhone 12 Pro)**  
   
-![screenshot of SCOOPS website on iPhone 12 Pro](docs/documentation/mobile_view.png)
+![screenshot of home page on iPhone 12 Pro](./assets/images/homeiphone.PNG)
+![screenshot of what to do page on iPhone 12 Pro](./assets/images/whattodoiphone.PNG)
+![screenshot of history page on iPhone 12 Pro](./assets/images/historyiphone.PNG)
+![screenshot of support page on iPhone 12 Pro](./assets/images/supportusiphone.PNG)
 
 ---  
                               
