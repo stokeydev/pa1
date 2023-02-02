@@ -55,11 +55,11 @@ Visit Stoke Newington is the go-to site for those who wish to visit Stoke Newing
 
 ### **Primary Goal**  
   
-Visit Stoke Newington aims to inform the general public about the splendors of Stoke Newington. It lets people know what they can get up, from walking tours, informing them what bars, pubs, restaurants, and cafes are available, what the local sports amenities are, along with the hisotry of the neighbourhood
+Visit Stoke Newington aims to inform the general public about the splendors of Stoke Newington. It lets people know what they can get up to, from walking tours, informing them what bars, pubs, restaurants, and cafes are available, what the local sports amenities are, along with the history of the neighbourhood.
 
 ### **Visitor Goals** 
 
-Visitors will be from all different backgrounds, and thus it is a goal of the website to be straight to the point and easy to use for those seeking information about: what to do, the history of the area, and how people can get involved. The site is designed to be responsive to allow visitors to view it from a range of devices. The basic information is easily accessible from every page via the footer, which makes for easy navigation and no need to use a "back" button. In addition, an interactive Google Map is also on the page in order to direct those not familiar with the neighborhood.  
+Visitors will be from all different backgrounds, and thus it is a goal of the website to be straight to the point and easy to use for those seeking information about: what to do in Stoke Newington and the history of the area. The site is designed to be responsive to allow visitors to view it from a range of devices. The basic information is easily accessible from every page via the footer, which makes for easy navigation and no need to use a "back" button. In addition, an interactive Google Map is also on the what to do page in order to direct those not familiar with the neighborhood, and a youtube video is available on the homepage who desire a more visiual experience of the area online, in case the photos are not interactive enough for them.  
 
 ### **First Time Visitor**
   - A user can access each page of the site with one click via the navigation bar.
@@ -84,17 +84,16 @@ Visitors will be from all different backgrounds, and thus it is a goal of the we
 ### **1. Strategy**  
 
 
-- I required an easy-to-read, dependable website that delivers clear information about what to do the and breif history of the area.  
-- I wanted to show off the highlights of the area as soon as people enter the site so it stands out and makes the site look attractive, hence the   
-  carousel.  
-- A clean design and use of graphics and colour to evoke an emotional and familiar connection for the user has been adapted - no big bright colours, a simple and clean look suits everyone and is a modern, respectable approach.  
+- I required an easy-to-read, dependable website that delivers clear information about what to do, and a breif history of the area.  
+- I wanted to show off the highlights of the area as soon as people enter the site so it stands out and makes the site look attractive, hence the carousel.  
+- A clean design and use of graphics and colour to evoke an emotional and familiar connection for the user has been adapted - no big bright colours, a simple and clean look that is accessible to everyone while being a modern, respectable-looking site.  
 - Information about this site is to be transparent and simple.  
 - Mobile responsiveness is an essential feature required for this website.
   
 
 ### **2. Scope**  
 
-The site must be available on a wide range of devices due to the varied range of bacgkrounds visiting the site. A range of visitors will be there for different reasons, but will want the same information - if someone lives there, they might not know everything their neighbourhood has to offer, and a first time visitor will want the main highlights. The site provides a comfortable, no-fuss website which doesn't have endless amounts of information.
+The site must be available on a wide range of devices due to the varied range of bacgkrounds visiting the site. A range of visitors will be there for different reasons, but will want the same information - if someone lives in the area, they might not know everything their neighbourhood has to offer, and a first time visitor will want the main highlights - thus, both visitors, though in different situations, are essentially looking for the same information, which is what to do in Stoke Newington. The site provides a comfortable, no-fuss approach which doesn't have endless amounts of information. The navigation is there to help people skip what they might deem irrelevant information.
 
 - The site is to contain only essential information, presented in a similar fashion and layout.   
 - Text must be clear and legible on any sized device to allow the user instant access to the relevant pages, and different parts of the pages.  
@@ -333,7 +332,8 @@ To ensure responsivity I used bootstrap's column approach. Main elements in the 
 - Google Dev Tools - to debug and for testing responsiveness 
 - Google Lighthouse - for auditing the website
 - W3C Validator - for validating the HTML and CSS code 
-
+- Bootstrap
+- Youtube
 ---   
  
 
@@ -361,20 +361,17 @@ GitHub was used to deploy the website. These were the steps taken to acheive thi
 ### **Initial testing plan**
 
 I had planned for this site to be accessible and legible on all screen sizes. The user is viewing the site primarily for the menu options and parlour location and they needed to access this information with one click. I used Chrome Dev Tools to test, tweak and debug in the early stages. I deployed my site halfway through to test on real-world devices. These devices included:  
-- Acer Aspire 3 Laptop (1920 X 1080)  
-- Huawei AD80HW 24" Monitor
-- iPad Pro 2021
-- iPhone SE(2016)
-- Huawei p30 pro 
-- iPhone 11/13
-- Samsung Galaxy s10 
+- HP Elite Desk 800
+- iPad Pro 2022
+- Huawei P30 Pro 
+- iPhone 13
+- Samsung Galaxy a8 tablet 
   
 ### **Testing**    
 
 Testing took place throughout the entire build using Dev Tools on Chrome and on the above real-world devices. The browsers used were:  
 - Chrome  
-- Firefox  
-- Edge  
+- Firefox   
 - Safari  
   
 The results of feature testing are as follows:  
@@ -393,13 +390,13 @@ The results of feature testing are as follows:
 | What to do | Google Maps works and shows correct information | Pass |
 | History| Timeline is ligned up correctly | Pass |
 | Support us | Contact form required elements are responsive | Pass |
-| Support us | Form submit button brings you to a validation page | Pass |
+| Support us | Form submit button applies validation | Pass |
 
 Further device testing took place in Dev Tools on:
   - iPhone 4/5/6/7/8
   - iPhone XR/ iPhone 12 Pro
-  - Pixel 5
-  - Samsung Galaxy s20
+  - Surface Pro 7
+  - Nest Hub
 
  
 ### **HTML Validation using W3C Validation**  
@@ -441,7 +438,7 @@ For Desktop
 <details open>
 <summary>Lighthouse audit for Index page</summary>  
 
-![screenshot of lighthouse audit for index page](./assets/images/indexdesktopp.png)
+![screenshot of lighthouse audit for index page](./assets/images/desktophomeperformance.PNG)
 </details> 
 <details >
 <summary>Lighthouse audit for What to do page</summary>  
@@ -464,7 +461,7 @@ For Mobile
 <details open>
 <summary>Lighthouse audit for Index page - Mobile</summary>  
 
-![screenshot of lighthouse audit for index page](./assets/images/indexmobilep.png)
+![screenshot of lighthouse audit for index page](./assets/images/mobilehomeperformance.PNG)
 </details> 
 <details >
 <summary>Lighthouse audit for What to do page - Mobile</summary>  
@@ -479,54 +476,49 @@ For Mobile
 <details >
 <summary>Lighthouse audit for Support us page - Mobile</summary>  
 
-![screenshot of lighthouse audit for contact page](./assets/images/supportmobilep.png)
+![screenshot of lighthouse audit for contact page](./assets/images/supportusmobileperformance.PNG)
 </details>        
   
 ### **Bugs & Fixes**  
   
 | Bug | Section | Fix |
 | :----| :----| :--------:|
-| Whitespace added to right-hand side of webpages | All pages | Using Dev Tools, I added a thin red border to every element in my website. From this, I discovered that I had mistyped a value in my footer padding section and made it too large. This was pushing the footer element outside of the webpage width. I adjusted the padding to the correct value and the issue was resolved. |
-| Nesting button element & anchor element | Index/Home page | When running an early W3C validation test, I discovered that I had made an error by placing a button element inside an anchor element within my tagline section. Semantically, this was incorrect. I considered using a span element instead and upon consulting Stackoverflow and this [post](https://stackoverflow.com/questions/6393827/can-i-nest-a-button-element-inside-an-a-using-html5) I confirmed my understanding. I re-checked my HTML code with W3C Validator and my live site to find the issue resolved. |
-| Flexbox issues with positioning business ethos section - elements bunched together | Index/Home page | As I was learning flexbox whilst completing the project, I had not yet fully understood the div parent/child relationship. I consulted the Mozilla Developer Docs for Flexbox and discovered that I was not using enough divs for the elements to display correctly. I placed each of my headings, paragraphs, and images within divs and applied flexbox properties to their parent divs and themselves. Assigning flex-direction: row and justify-content: space-around/space-between solved my issue, with each of the elements positioning themselves with appropriate spacing between. I then applied this structure to the remaining two ethos items. |
-| br element in li element  | Menu Page |  Semantically I made an error by using the br element to make space between my menu items. On performing the W3C validation test, I became aware of this error. I considered using margin-top to fix the issue. I Googled the issue to understand my error further and came across a Stackoverflow [post](https://stackoverflow.com/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements), with a comment from Quentin detailing how to use margin-top avoiding the first child element of the parent div. I used this piece of code in my CSS file to control the spacing between the menu items after understanding the code fully. |
-| Viewport meta tag  | Head section/All pages | On first deploying my website to real devices, the mobile pages were appearing zoomed in upon loading. They appeared normally on Dev Tools mobile testing sizes. I checked my CSS code and my viewport meta tag for any obvious errors. Upon finding none I consulted Stackoverflow to find this [post](https://stackoverflow.com/questions/14272420/webpage-starts-zoomed-in-on-mobile-devices). I removed the initial-scale=1.0 from the viewport meta tag, leaving only width=device-width, I ran the code through the W3C Validator to find no errors. This fixed the issue on all real-world mobile and tablet devices |
-| Index page styling disappeared | Index/Home page | Due to commenting out the wrong section of CSS code, I had caused styling on my home page to disappear. Checking the code, I spotted the error and rectified it. |
-| Textarea misalignment | Contact page | Due to a developer mistype, I had altered my CSS code for my contact form textarea. I re-added display:block and margin:auto to center the element again. |
+| Capition in carousel on smaller screens | Index/Home page | On smaller screens, the caption didn't look good. In order to resolve this, via bootstrap I hid the caption when the size screen reduced - this was part of making it responsive. |
+| Youtube video size | Index/Home page | When I embedded a Youtube video onto the homepage, it would spill over the size of the screen and it wasn't responsive. I found a solution online via CSS rather than soley relying on Bootstrap, and the problem was resolved. |
+| Navbar responsiveness | All pages | As I created a bespoke navbar, when I tried to make it responsive, it wasn't working, or in other words, it wasn't doing the desired aim. In order to resolve this, I created two separate navbars: one that that would only appear on larger screens, and the other on smaller screens. |
+| Google Maps responsiveness  | What to do page |  The Google Maps 'walking tour' I embbeded in the the What to do page, much like the youtube video, wasn't responsive, so rather than trying to use Bootstrap I used CSS and created two separate versions, one for big screens, one for small screens to make it responsive. |
+| Button on card | What to do page | Because I created two versions of the Google Maps feature (for responsiveness, as explained above), I therefore had to create to separate buttons for both versions of the Google Maps section of the website. This was done via Bootstrap. |
+| Order of image and text | What to do page | I made the What to do page responsive, however, on the mobile screen version, some images would place themselves under the text rather than above. To fix this I changed the ordering via CSS so that all images would appear above the text, so as to keep a consistent theme and look. |
 
 ### **Unsolved Bugs** 
 
-- On viewing my deployed site on Safari browser, I found the Josefin Sans font to be displayed differently in the header elements. The website is still displayed adequately despite this issue. I will continue my learning to understand how to combat small, browser display differences to discover if I can overcome this.
-
-- On occasion, when viewing my website in Dev Tools, a small amount of whitespace appears to the right of the Home page. When I refresh the page or clear the cache, this issue resolves itself. I have not figured out yet why this happens on rare occasion.
-
-- Even though my site is responsive on Dev Tools and on real world devices, it does not work on multiple-media, screenshot generating websites like 'ui.dev/amiresponsive'. It appears zoomed in, similar to the viewport meta tag issue as documented above. I have yet to figure out why this is the case.
+- The gap between the footer and the form on Support us page can look awkward on mobile view. I have to reduce the empty space in this instance.
 
 ---  
 
 ## Credits  
   
 ### **Content References**
-- All content written for the website is by myself, is purely fictional, and for educational purposes only.
-- [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS learning material and 'content zoom' module in the Love Running project.
+- All content written for the website is by myself, is for educational purposes only.
+- [Code Institute](https://codeinstitute.net/ie/) for their HTML/CSS and Boostrap learning material.
 - [W3Schools](https://www.w3schools.com/) for additional learning material.
-- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) for flexbox tutorials and guidance.
-- [dev.to](https://dev.to/snkds/how-to-create-striped-backgrounds-with-css-5dfn) for the CSS diagonal stripes tutorial.
+- [MD Boostrap](https://mdbootstrap.com/docs/standard/navigation/footer/) for the footer, history timeline, and the hamburger navigation bar.
+- [Julian McDonnell - Youtube](https://www.youtube.com/embed/sTNAu6BOZPs) for the Youtube video I included on the homepage.
 - Alan from Code Institute Tutor Support for helping me with an element width issue in my media queries.
-- [StackOverflow](https://stackoverflow.com/questions/66564503/wrong-validation-on-element-br-in-ul-li-elements) guidance on removing br element from menu li items to improve semantic HTML
-- [Browserstack](https://www.browserstack.com/guide/what-are-css-and-media-query-breakpoints#:~:text=Essentially%2C%20media%20query%20breakpoints%20are,offers%20an%20optimal%20user%20experience.) for media queries and breakpoints guidance.
-- [Elaine Broche](https://github.com/elainebroche-dev/ms1-thrive) Design inspired by Elaine's striking juice website.
+- [Boostrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) for getting bootstrap.
+- [Google Maps](https://www.google.com/maps/d/embed?mid=1mb5Xqcp3_qW_dORobXRO130XVuuXbc4&ehbc=2E312F) Google Maps allowed me to create an interactive walking tour - this features in the What to do page.
 - [Kera Cudmore - Creating your First README](https://github.com/kera-cudmore/readme-examples) for README structure and Markdown guidance. 
   
 
 ### **Media References**  
   
-- [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), and [Pixabay](https://pixabay.com/) for all images used on this site. Credit to photographers Jonathan Cooper, Lukas, Katie Rainbow, Kyle Hinkson, and Dulce Silvagni.
-- [Font Awesome](https://fontawesome.com/) for the icons used in the footer of this site.
-- [Favicon](https://favicon.io/) for the favicon used for this site.
+- [Unsplash](https://unsplash.com/) for all images used on the What to do page. All other photos are the intellectual property of Berk Burak Bektas, who created this website. Credits to photographers have been added to the images.
+- [Font Awesome](https://fontawesome.com/) for the icons used across this site.
+- [Boostrap](https://getbootstrap.com/) for the icons used across this site.
+- [Youtube](https://youtube.com/) for the Youtube video used on this site.
 - [Google Maps](https://www.google.com/maps) for the map used in this site.
 
 
 ### **Acknowledgements** 
-- I would like to acknowledge my Code Institute mentor, Rahul Lakhanpal, for his guidance and encouragement on this project.
-- My family for testing my work and offering positive thoughts and hot cups of tea throughout the project.
+- I would like to acknowledge my Code Institute mentor, Richey Malhotra, for his support, guidance and encouragement on this project.
+- I would also like to thank my family and friends for testing my work and offering positive thoughts throughout the project.
