@@ -84,7 +84,7 @@ Visitors will be from all different backgrounds, and thus it is a goal of the we
 ### **1. Strategy**  
 
 
-- I required an easy-to-read, dependable website that delivers clear information about what to do, and a breif history of the area.  
+- I required an easy-to-read, dependable website that delivers clear information about what to do, and a brief history of the area.  
 - I wanted to show off the highlights of the area as soon as people enter the site so it stands out and makes the site look attractive, hence the carousel.  
 - A clean design and use of graphics and colour to evoke an emotional and familiar connection for the user has been adapted - no big bright colours, a simple and clean look that is accessible to everyone while being a modern, respectable-looking site.  
 - Information about this site is to be transparent and simple.  
@@ -178,9 +178,9 @@ Overall, the design intends to make the website seem welcoming, non-threatening 
 
 ### **Color Scheme**  
 
-This website is dominated by black (text) and white (background) to keep it consistent while giving it that easily, smooth, and accesible look and experience for users. Other colours were included, such as sonic solver for the text in the footer to distinguish it ever so subtly. The histroy page's icons are a different colour (cobalt blue with a periwinkle crayola background) so that it subltly strikes users a different aspect of the website. Naturally, photos are used across the site and all of them contrast well with the white background. Almost all my buttons had white text and a black background - this was a natural option, as it kept with the design. The only buttons that don't have this was the mid section of the home page, where the three buttons there had a sonic silver background so as to distinguish this region of the webpage - it was also visually appealing and worked with the look of the overall website.
+This website is dominated by black (text) and white (background) to keep it consistent while giving it that easily, smooth, and accesible look and experience for users. Other colours were included, such as sonic solver for the text in the footer to distinguish it ever so subtly. The history page's icons are a different colour (cobalt blue with a periwinkle crayola background) so that it subltly strikes users a different aspect of the website. Naturally, photos are used across the site and all of them contrast well with the white background. Almost all my buttons had white text and a black background - this was a natural option, as it kept with the design. The only buttons that don't have this was the mid section of the home page, where the three buttons there had a sonic silver background so as to distinguish this region of the webpage - it was also visually appealing and worked with the look of the overall website.
   
-![colour theme swatches](./assets/images/colour-palette.PNG)  
+![colour theme palette](./assets/images/colour-palette.PNG)  
   
 The contrast ratio for my buttons were acceptable in both instances according to the [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) contrast ratio.
   
@@ -195,7 +195,7 @@ The contrast ratio for my buttons were acceptable in both instances according to
   
 I used the standard bootstrap font, as this went well with the website - it kept with the theme, style and aim of the website.
   
-![google Fonts Josefin Sans](./assets/images/bootstrap-typography.PNG)
+![Bootstrap Font](./assets/images/bootstrap-typography.PNG)
 
         
 ### **Imagery**  
@@ -249,7 +249,7 @@ The tagline image has its opacity set to allow the hero image to still show thro
 
 ![screenshot ethos and images](./assets/images/whattodo3.PNG)  
 </details>
-A table of content/jump to section dominates the first section - users can click the Explore button to take them to a particular section. Below, small portions of text with clear headings are accompanied by images that reflect the topic, apart from the stroll section, which has an interactive map from Google. In tablet/mobile view, these sections are displayed in a column.  
+A table of content/jump to section dominates the first section - users can click the 'Explore' button to take them to a particular section. Below, small portions of text with clear headings are accompanied by images that reflect the topic, apart from the stroll section, which has an interactive map from Google. In tablet/mobile view, these sections are displayed in a column.  
 
 <br>
   
@@ -279,7 +279,7 @@ A simple form, with a nice image of Stoke Newington is included in this webpage.
 
 ![screenshot of footer](./assets/images/footerview.PNG) 
 </details>
-The footer remains the same throughout the design. It contains a breif summary of the website, along with clickable links to the different pages on the website, along with social media pages the website is connected to.  
+The footer remains the same throughout the design. It contains a brief summary of the website, along with clickable links to the different pages on the website, along with social media pages the website is connected to.  
 
 ---   
 
@@ -388,7 +388,7 @@ The results of feature testing are as follows:
 | Index| Youtube video works | Pass | 
 | What to do | All buttons scroll to desired place | Pass |
 | What to do | Google Maps works and shows correct information | Pass |
-| History| Timeline is ligned up correctly | Pass |
+| History| Timeline is lined up correctly | Pass |
 | Support us | Contact form required elements are responsive | Pass |
 | Support us | Form submit button applies validation | Pass |
 
@@ -484,7 +484,7 @@ For Mobile
 | Bug | Section | Fix |
 | :----| :----| :--------:|
 | Capition in carousel on smaller screens | Index/Home page | On smaller screens, the caption didn't look good. In order to resolve this, via bootstrap I hid the caption when the size screen reduced - this was part of making it responsive. |
-| Youtube video size | Index/Home page | When I embedded a Youtube video onto the homepage, it would spill over the size of the screen and it wasn't responsive. I found a solution online via CSS rather than soley relying on Bootstrap, and the problem was resolved. |
+| Youtube video size | Index/Home page | When I embedded a Youtube video onto the homepage, it would spill over the size of the screen and it wasn't responsive. I found a solution online via CSS rather than solely relying on Bootstrap, and the problem was resolved. |
 | Navbar responsiveness | All pages | As I created a bespoke navbar, when I tried to make it responsive, it wasn't working, or in other words, it wasn't doing the desired aim. In order to resolve this, I created two separate navbars: one that that would only appear on larger screens, and the other on smaller screens. |
 | Google Maps responsiveness  | What to do page |  The Google Maps 'walking tour' I embbeded in the the What to do page, much like the youtube video, wasn't responsive, so rather than trying to use Bootstrap I used CSS and created two separate versions, one for big screens, one for small screens to make it responsive. |
 | Button on card | What to do page | Because I created two versions of the Google Maps feature (for responsiveness, as explained above), I therefore had to create to separate buttons for both versions of the Google Maps section of the website. This was done via Bootstrap. |
@@ -520,5 +520,5 @@ For Mobile
 
 
 ### **Acknowledgements** 
-- I would like to acknowledge my Code Institute mentor, Richey Malhotra, for his support, guidance and encouragement on this project.
+- I would like to acknowledge my mentor, Richey Malhotra, for his support, guidance and encouragement on this project.
 - I would also like to thank my family and friends for testing my work and offering positive thoughts throughout the project.
