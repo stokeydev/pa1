@@ -179,23 +179,24 @@ Overall, the design intends to make the website seem welcoming, non-threatening 
 
 ### **Color Scheme**  
 
-This website used a fresh, bold palette of blues and reds to capture the aesthetic of a traditional ice cream parlour. The colours reminded me of ice cream wrappers and packaging. I combined these with an off-white shade that felt paperlike and clean.  
+This website is dominated by black (text) and white (background) to keep it consistent while giving it that easily, smooth, and accesible look and experience for users. Other colours were included, such as sonic solver for the text in the footer to distinguish it ever so subtly. The histroy page's icons are a different colour (cobalt blue with a periwinkle crayola background) so that it subltly strikes users a different aspect of the website. Naturally, photos are used across the site and all of them contrast well with the white background. Almost all my buttons had white text and a black background - this was a natural option, as it kept with the design. The only buttons that don't have this was the mid section of the home page, where the three buttons there had a sonic silver background so as to distinguish this region of the webpage - it was also visually appealing and worked with the look of the overall website.
   
-![colour theme swatches](docs/documentation/colourtheme.png)  
+![colour theme swatches](./assets/images/colour-palette.PNG)  
   
-I experienced an issue with the contrast ratio for my buttons. The ratio of the (#78D5F7) blue and (#F53636) red fell short of the acceptable [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) contrast ratio. To fix this and increase the accessibility of my site I used different shades of these colours to conform.  
+The contrast ratio for my buttons were acceptable in both instances according to the [WCAG](https://www.w3.org/WAI/WCAG21/Understanding/contrast-minimum.html) contrast ratio.
   
-![Colour contrast ratio for buttons](docs/documentation/buttoncontrast.png)  
+![Colour contrast ratio for buttons](./assets/images/buttoncontrast1.PNG)  
+![Colour contrast ratio for buttons](./assets/images/buttoncontrast2.PNG)
   
 [Adobe Color](https://color.adobe.com/create/color-contrast-analyzer) provided this fantastic resource for checking how accessible your colours are. I submitted my palette to the [Color Blind Safe](https://color.adobe.com/create/color-accessibility) check to find they passed this test also.  
   
-![Color Blind Safe Check](docs/documentation/cb_safe.png)
+![Color Blind Safe Check](./assets/images/colour-blind-safe.PNG)
   
 ### **Typography**  
   
-[Google Fonts](https://fonts.google.com/) was used to import the fonts 'Josefin Sans' and 'Lato'. I felt the clear, soft lettering suited the intended aesthetic of the website. I had intentions to use Lato for my smaller bodies of text, however, I chose to stick with Josefin to keep the font consistent.   
+I used the standard bootstrap font, as this went well with the website - it kept with the theme, style and aim of the website.
   
-![google Fonts Josefin Sans](docs/documentation/josefinfont.png)
+![google Fonts Josefin Sans](./assets/images/bootstrap-typography.PNG)
 
         
 ### **Imagery**  
